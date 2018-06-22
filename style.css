@@ -1,0 +1,93 @@
+.boxLog {
+  border: 3px solid #DDD;
+  padding: 1em;
+  border-radius: 3em;
+  width: 100%;
+  font-size:24px;
+  color: #fffff;
+  font-family: gillsans;
+  
+}
+.reMake {
+  font-size: 54px;
+  padding: 18px;
+  border-radius:108px 9px 360px 9px;
+  width: 100%;
+  color: #fffff;
+  font-family: gillsans;
+    background-color: #ffa535;
+  
+  
+}
+
+.reMake2 {
+  font-size: 36px;
+  color: #fffff;
+  font-family: gillsans;
+
+}
+
+.textLog {
+  background-color: white;
+  font-size: 18px;
+  color: #4D4C59;
+  font-family: gillsans, helvetica, times;
+  text-align: left;
+}
+
+.imagesHome {
+    background-color: #ffa535;
+    padding: 3px;
+    margin: 0px;
+    border-radius: 360px;
+    width: 324px;
+  }
+
+.headingLog {
+  border: 0px solid #DDD;
+  padding: 0px;
+  border-radius: 3em;
+  width: 100%;
+  font-size:36px;
+  color: #ffcd32;
+  font-family: gillsans;
+  text-align: center;
+  font-weight: bold;
+  
+}
+
+.textBigIdea {
+  background-color: white;
+  font-size: 24px;
+  color: #4D4C59;
+  font-family: gillsans;
+  text-align: center;
+  font-weight: bold;
+}
+.formLog{
+  background-color: 	#ffcd32;
+  padding: 1em;
+  border-radius: 3em;
+  width: 100%;
+  font-size:24px;
+  color: black;
+  font-family: gillsans;
+}
+.textList {
+  padding: 1em;
+  border-radius: 3em;
+  width: 100%;
+  font-size:24px;
+  color: black;
+  font-family: gillsans;
+  text-align:left;
+}
+.aboutStudentSpace {
+  background-color: 	#ffa535;
+  padding: 4em;
+  border-radius: 108px 9px 360px 9px;;
+  width: 100%;
+  font-size:24px;
+  color: black;
+  font-family: gillsans;
+}
